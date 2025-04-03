@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+#navTop{
+  background-color: #1D2026;
+  height: 52px;
+  justify-content: space-between;
+  display: flex;
+  padding-right: 32px;
+  padding-left: 32px;
+  align-items: center;
+}
+
+nav a{
+  color: #8C94A3;
+}
+
+#logoImg{
+  width: 153px;
+  height: 40px;
+}
+
+.btn1{
+  background-color: #ff6636;
+  color: white;
+  padding: 12px;
+  width: 100px;
+}
+
+.infoSection1{
+  position: absolute;
+  width: 648px;
+  height: 348px;
+  gap: 40px;
+  top: 242px;
+  left: 300px;
+}
+
+.infoImage{
+  width: 900px;
+  height: 548px;
+  top: 142px;
+  left: 1000px;
+  position: absolute;
+}
+.btn2{
+  background-color: #FFEEE8;
+  color: #ff6636;
+  padding: 12px;
+  width: 168px;
+  height: 48px;
+}
+
+.create{
+  width: 198px;
+}
+
+.companyImg{
+  height: 100px;
+  width: 200px;
+  
+}
